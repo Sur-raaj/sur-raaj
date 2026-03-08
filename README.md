@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ══ ANIMATED HEADER — glowing SUR-RAAJ exactly like the card ══ -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000508,20:030f1c,55:050d18,100:030912&height=260&section=header&text=SUR-RAAJ&fontSize=96&fontColor=00d4ff&fontAlignY=44&desc=%3E%20SURAJ%20KC%20%2F%2F%20KATHMANDU%2C%20NEPAL%20%F0%9F%8F%94%EF%B8%8F&descSize=14&descColor=004d6e&descAlignY=62&stroke=00d4ff&strokeWidth=2&animation=twinkling" />
 
-<!-- ══ TYPING ANIMATION — same two lines as the card subtitle ══ -->
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=19&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=560&height=58&lines=%3E+SURAJ+KC+%2F%2F+KATHMANDU%2C+NEPAL+%F0%9F%87%B3%F0%9F%87%B5;%3E+BACKEND+DEV+%E2%86%92+AI%2FML+%E2%86%92+QUANTUM+COMPUTING)](https://github.com/sur-raaj)
@@ -12,30 +10,24 @@
 
 ---
 
-<!-- ══ TERMINAL BLOCK — syntax colors matching the card exactly ══ -->
+<!-- TERMINAL BLOCK — SVG file in same repo, renders exactly like the screenshot -->
+<!-- ⚠️  Upload terminal.svg to your sur-raaj repo root alongside this README -->
+<div align="center">
 
-```js
-// boot.sequence.init()
-const surRaaj = {
-  name     : "Suraj KC",
-  origin   : "Kathmandu, Nepal 🇳🇵",
-  focus    : "AI/ML → Quantum Computing",
-  frontend : false,                        // never asked 😅
-  status   : "OPEN TO COLLABORATE 🟢"
-}
-```
+<img src="./terminal.svg" width="700" alt="sur-raaj terminal"/>
+
+</div>
 
 ---
 
-<!-- ══ BADGES — exact color #000d1a bg, #00d4ff accent ══ -->
 <div align="center">
 
 **▸ FULL STACK**
 
-![AI/ML](https://img.shields.io/badge/🤖_AI%2FML-000d1a?style=for-the-badge&logoColor=00d4ff)
+![AI/ML](https://img.shields.io/badge/🤖%20AI%2FML-000d1a?style=for-the-badge&logoColor=00d4ff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000d1a?style=for-the-badge&logo=pytorch&logoColor=00d4ff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000d1a?style=for-the-badge&logo=tensorflow&logoColor=00d4ff)
-![Qiskit](https://img.shields.io/badge/⚛️_Qiskit-000d1a?style=for-the-badge&logo=ibm&logoColor=00d4ff)
+![Qiskit](https://img.shields.io/badge/⚛️%20Qiskit-000d1a?style=for-the-badge&logo=ibm&logoColor=00d4ff)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-000d1a?style=for-the-badge&logo=huggingface&logoColor=00d4ff)
 ![Python](https://img.shields.io/badge/Python-000d1a?style=for-the-badge&logo=python&logoColor=00d4ff)
 ![Node.js](https://img.shields.io/badge/Node.js-000d1a?style=for-the-badge&logo=nodedotjs&logoColor=00d4ff)
@@ -48,7 +40,6 @@ const surRaaj = {
 
 ---
 
-<!-- ══ STATS — bg #000d1a, title+icon #00d4ff, text #336688 ══ -->
 <div align="center">
 
 **▸ GIT LOG --STATS**
@@ -64,7 +55,6 @@ const surRaaj = {
 
 ---
 
-<!-- ══ PROJECTS TABLE — matching the card's project rows ══ -->
 <div align="center">
 
 **▸ PINNED PROJECTS**
@@ -80,7 +70,6 @@ const surRaaj = {
 
 ---
 
-<!-- ══ CONTRIBUTION GRAPH — react-dark theme, exact bg/color match ══ -->
 <div align="center">
 
 **▸ CONTRIBUTION GRAPH**
@@ -91,7 +80,6 @@ const surRaaj = {
 
 ---
 
-<!-- ══ TROPHIES ══ -->
 <div align="center">
 
 **▸ ACHIEVEMENTS**
@@ -102,23 +90,23 @@ const surRaaj = {
 
 ---
 
-<!-- ══ OTW BLOCK — green pulse dot effect via ASCII + badge ══ -->
 <div align="center">
 
 ```
-● OPEN TO WORK & COLLABORATIONS
-─────────────────────────────────────────────────────────────────
-  AI/ML  ·  Quantum Research  ·  Backend Systems  ·  Open Source
-─────────────────────────────────────────────────────────────────
+╔══════════════════════════════════════════════════════════════════╗
+║  🟢  STATUS  :  OPEN TO WORK & COLLABORATE                      ║
+║                                                                  ║
+║  ▸  AI / ML Projects      ▸  Quantum Research                   ║
+║  ▸  Backend Systems       ▸  Open Source   ▸  Research          ║
+║                                                                  ║
+║     "Build systems that outlive the hype."   — Sur-raaj          ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-![Open to Work](https://img.shields.io/badge/●_OPEN_TO_COLLABORATE-000d1a?style=for-the-badge&logoColor=00ff88&color=030912&labelColor=030912&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMCAxMCI+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjUiIGZpbGw9IiMwMGZmODgiLz48L3N2Zz4=)
 
 </div>
 
 ---
 
-<!-- ══ QUOTE — matching the card footer quote ══ -->
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -127,15 +115,14 @@ const surRaaj = {
 
 ---
 
-<!-- ══ SOCIALS — dark bg, cyan accent matching card social buttons ══ -->
 <div align="center">
 
 **▸ CONNECT**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-030912?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=030912)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-030912?style=for-the-badge&logo=twitter&logoColor=00d4ff&labelColor=030912)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-030912?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=030912)](https://your-portfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-030912?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=030912)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-030912?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-030912?style=for-the-badge&logo=twitter&logoColor=00d4ff)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-030912?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-030912?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:your@email.com)
 
 <br/>
 
@@ -145,7 +132,6 @@ const surRaaj = {
 
 ---
 
-<!-- ══ FOOTER WAVE — matching card footer ══ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000508,40:030f1c,100:030912&height=100&section=footer&text=&fontSize=0" />
